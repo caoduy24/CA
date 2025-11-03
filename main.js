@@ -421,4 +421,4 @@ function play(){
 }
 
 draw();
-//play();
+play();
